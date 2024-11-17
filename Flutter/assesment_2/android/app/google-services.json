@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234498402737",
+    "project_id": "teadiary-86035",
+    "storage_bucket": "teadiary-86035.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234498402737:android:227241143263369f2eb590",
+        "android_client_info": {
+          "package_name": "com.example.assesment_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC26SMnL-UxhLX_LT4FtjmXcxbcmgBfy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

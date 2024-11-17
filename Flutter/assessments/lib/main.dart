@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'add_students.dart';
-import 'addmarks.dart';
-import 'view_students.dart';
+import 'assesment1/add_students.dart';
+import 'assesment1/addmarks.dart';
+import 'assesment1/view_students.dart';
 
 void main() {
   runApp(MaterialApp(
